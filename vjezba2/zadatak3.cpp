@@ -42,7 +42,22 @@ double** oduzm(double** mat1, double** mat2, int m, int n) {
 }
 
 double** umnm(double** mat1, double** mat2, int m, int n) {
+    double** rezu = numat(m,n);
 
+    for (int i = 0; i < m; i++) {
+		for (int j = 0; j < n; j++) {
+			rezu[i][j] = 0.0;
+		}
+	}
+
+	for (int i = 0; i < m; i++) {
+		for (int j = 0; j < n; j++) {
+			for (int k = 0; k < n; k++) {
+				rezu[i][j] += mat1[i][k] * mat2[k][j];
+			}
+		}
+	}
+	return rezu;
 }
 
 int main() {
