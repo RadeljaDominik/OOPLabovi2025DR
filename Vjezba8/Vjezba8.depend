@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1765881174 source:/home/radelja/Documents/KopilicaShit/OOPLabovi2025DR/Vjezba8/main.cpp
+	<iostream>
+
+1765884642 source:/home/radelja/Documents/KopilicaShit/OOPLabovi2025DR/Vjezba8/Enemy.cpp
+	"Enemy.h"
+
+1765886569 /home/radelja/Documents/KopilicaShit/OOPLabovi2025DR/Vjezba8/Enemy.h
+	"Player.h"
+
+1765885667 /home/radelja/Documents/KopilicaShit/OOPLabovi2025DR/Vjezba8/Player.h
+	"GameCharacter.h"
+
+1765888515 /home/radelja/Documents/KopilicaShit/OOPLabovi2025DR/Vjezba8/GameCharacter.h
+	<string>
+	<iostream>
+
