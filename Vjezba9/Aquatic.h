@@ -1,7 +1,8 @@
 #ifndef AQUATIC_H
 #define AQUATIC_H
+#include "Animal.h"
 using namespace std;
-class Aquatic : public Animal{
+class Aquatic : public Animal {
 private:
     double maxDiveDepth;
 public:

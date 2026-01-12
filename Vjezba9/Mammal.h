@@ -1,5 +1,6 @@
 #ifndef MAMMAL_H
 #define MAMMAL_H
+#include "Animal.h"
 using namespace std;
 class Mammal : public Animal{
 private:

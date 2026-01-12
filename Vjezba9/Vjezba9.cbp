@@ -23,9 +23,20 @@
 		<Unit filename="Animal.h" />
 		<Unit filename="Aquatic.cpp" />
 		<Unit filename="Aquatic.h" />
+		<Unit filename="Dolphin.cpp" />
+		<Unit filename="Dolphin.h" />
+		<Unit filename="Elephant.cpp" />
+		<Unit filename="Elephant.h" />
+		<Unit filename="Lion.cpp" />
+		<Unit filename="Lion.h" />
 		<Unit filename="Mammal.cpp" />
 		<Unit filename="Mammal.h" />
+		<Unit filename="SeaTurtle.cpp" />
+		<Unit filename="SeaTurtle.h" />
 		<Unit filename="Vjezba9.cbp" />
+		<Unit filename="ZooKeeper.cpp" />
+		<Unit filename="ZooKeeper.h" />
+		<Unit filename="ZooSection.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

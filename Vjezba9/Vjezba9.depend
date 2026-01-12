@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1768261558 source:/home/radelja/Desktop/KopilicaShit/OOPLabovi2025DR/Vjezba9/ZooKeeper.cpp
+	"ZooKeeper.h"
+	<iostream>
+
+1768261534 /home/radelja/Desktop/KopilicaShit/OOPLabovi2025DR/Vjezba9/ZooKeeper.h
+	"Animal.h"
+
+1768159844 /home/radelja/Desktop/KopilicaShit/OOPLabovi2025DR/Vjezba9/Animal.h
+	<iostream>
+	<string>
+	<stdexcept>
+
+1768159844 source:/home/radelja/Desktop/KopilicaShit/OOPLabovi2025DR/Vjezba9/Aquatic.cpp
+	"Aquatic.h"
+
+1768261695 /home/radelja/Desktop/KopilicaShit/OOPLabovi2025DR/Vjezba9/Aquatic.h
+	"Animal.h"
+
+1768159844 source:/home/radelja/Desktop/KopilicaShit/OOPLabovi2025DR/Vjezba9/Mammal.cpp
+	"Mammal.h"
+
+1768261704 /home/radelja/Desktop/KopilicaShit/OOPLabovi2025DR/Vjezba9/Mammal.h
+	"Animal.h"
+
